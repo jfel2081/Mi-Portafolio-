@@ -1,6 +1,5 @@
 # Laboratorio computacional · portafolio personal
 
-Cascarón de sitio personal/portafolio/blog en **Next.js (App Router)** + **Tailwind CSS v4** + **Lucide**, con fórmulas **LaTeX/KaTeX** (incluida química con `mhchem`). Listo para Vercel.
 
 ## Empezar
 
